@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Hardware Repair",
+        "description": "Lorea",
+        "price_range": "$100-$200"
+    },
+    {
+        "name": "Software Repair",
+        "description": "Lorea",
+        "price_range": "$150-$220"
+    },
+    {
+        "name": "LOLr",
+        "description": "Lorea",
+        "price_range": "$10-$20"
+    },
+    {
+        "name": "Network Servicesr",
+        "description": "Lorea",
+        "price_range": "$10-$203333"
+    }
+]
