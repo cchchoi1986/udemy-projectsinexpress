@@ -1,0 +1,17 @@
+{
+  "name": "clientkeeper",
+  "version": "0.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.3",
+    "mongojs": "^2.2.2",
+    "bower": "^1.7.2"
+  }
+}
