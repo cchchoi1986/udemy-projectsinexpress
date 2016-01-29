@@ -1,0 +1,4 @@
+krakenmoviebase
+===========
+
+current movies info
